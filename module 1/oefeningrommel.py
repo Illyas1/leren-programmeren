@@ -1,4 +1,4 @@
-zin = 'hallo wereld'
+zin = 'hallo wereldje'
 x = 0 
 
 for karakter in zin: # 3 rondjes
